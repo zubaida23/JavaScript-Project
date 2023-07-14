@@ -1,0 +1,23 @@
+body{
+ margin: 0 auto;
+ padding: 10px;
+ justify-content: center;
+}
+.title{
+ margin-bottom: 10px;
+ text-align: center;
+ width: 202px;
+ color: rgb(95, 95, 190);
+ border: solid palevioletred 2px;
+}
+input[type="button"]{
+ background-color: palevioletred;
+ color: white;
+ border: solid palevioletred 2px;
+ width: 100%;
+}
+input[type="text"]{
+ background-color: white;
+ border: solid palevioletred 2px;
+ width: 100%;
+}
